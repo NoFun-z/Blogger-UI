@@ -1,0 +1,60 @@
+Main page introduction and history sources:
+https://becominghuman.ai/introduction-to-artificial-intelligence-5fba0148ec99
+https://www.europarl.europa.eu/news/en/headlines/society/20200827STO85804/what-is-artificial-intelligence-and-how-is-it-used
+https://discover.bot/bot-talk/the-history-of-artificial-intelligence/?ref=GADW-cpc-pknuqpuf&pk_cid=9000774&pk_campaign=gadw-search&gclid=CjwKCAiA-9uNBhBTEiwAN3IlNGPwLCIXjP6liD05S5c-YzyoVfrgA29yRfD2rNFbkkBPw0HzdNTThxoC_5IQAvD_BwE
+https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/
+
+video: https://www.youtube.com/watch?v=zjeBGkS4LAA
+
+Feature page sources:
+https://www.bostondynamics.com/products/spot
+https://www.hansonrobotics.com/sophia-2020/
+https://www.softbankrobotics.com/emea/en/pepper
+https://www.virtualhumans.org/article/who-is-samsung-sam
+
+video: https://www.youtube.com/watch?v=tF4DML7FIWk
+https://www.youtube.com/watch?v=uD1Ia9Jyg-E&t=161s
+
+Blog page sources:
+blog 1
+https://blog.bostondynamics.com/
+https://blog.bostondynamics.com/unlock-the-data-that-matters-most
+
+blog 2
+https://www.hansonrobotics.com/blog/
+https://www.hansonrobotics.com/sophiadao-governance-organization-for-agi-development/
+
+blog3
+https://www.softbankrobotics.com/emea/en/blog
+
+blog 4
+https://www.republicworld.com/technology-news/apps/samsungs-3d-virtual-assistant-sam-takes-over-the-internet-and-netizens-are-impressed.html
+
+blog 5
+https://symb.io/?gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbcw53pgTdbj8Tnflq-vgVvd02twrhUtsaLzaJfgiM_d5oxDfoZUKEoaAi2JEALw_wcB
+https://symb.io/technology/applications/
+https://www.businesswire.com/news/home/20211026005444/en/Symbio-Unveils-Major-Software-Solution-Update-to-Further-Modernize-Manufacturing-Assembly
+
+blog 6
+https://www.theexplorer.no/stories/technology/this-is-how-norway-puts-artificial-intelligence-to-use/?gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbcLkemcYT3WL0oEdIXssL16exvafaQkP8izhqqOdQECvlxH6XvFF9MaAjgsEALw_wcB
+
+blog 7
+https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/?sh=23fd504f79a3
+
+blog 8
+https://www.unitedrobots.ai/about/news/tag/real-estate-robot
+https://www.unitedrobots.ai/resources/cases/automated-home-sales-texts-drive-subscription-sales
+
+blog 9
+https://blog.bostondynamics.com/
+https://blog.bostondynamics.com/spot-release-3.0-flexible-autonomy-and-repeatable-data-capture
+video:https://www.youtube.com/watch?v=oHKCwyUa2rg
+
+Media
+https://www.popularmechanics.com/technology/robots/a36331690/autonomous-farming-robot-kills-weeds/
+
+video:https://www.youtube.com/watch?v=Ml9v3wHLuWI&t=49s
+https://www.youtube.com/watch?v=B5l_vNEcFWg
+https://www.youtube.com/watch?v=YA3VSIq3a2I
+https://www.youtube.com/watch?v=wTbrk0suwbg
+https://www.youtube.com/watch?v=Nnf8P5A_saE
